@@ -1,6 +1,6 @@
 require: slotfilling/slotFilling.sc
   module = sys.zb-common
-theme: /
+theme: /Tickets
 
     state: Start
         q!: $regex</start>
